@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.warpper{
+    height: 50px;
+    background-color: red;
+}
+/*只要添加margin: 0 auto;就可以实现中间居中左右自适应*/
+.center{
+    margin: 0 auto;
+    height: 50px;
+    width: 1200px;
+    background-color: aqua;
+}
+img{
+    /*硬生生移动过去，一般情况下是不可以这样做的
+      这里涉及到压缩代码的问题，所以其实不用管，原因：img属于inline-block属性
+    */
+    /*margin-left: -6px;*/
+
+}
+
+/*行级元素加宽高是无用的 但是加上 position: absolute;float: left;就会好使
+    原因：position: absolute;float: left/right;内部执行：display: inline-block;
+*/
+span{
+    position: absolute;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
