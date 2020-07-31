@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f5265cd-9e41-4cae-babb-3389e6730128" name="Default Changelist" comment="练习了一些css语法">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css生华/2.png" beforeDir="false" />
-    </list>
+    <list default="true" id="3f5265cd-9e41-4cae-babb-3389e6730128" name="Default Changelist" comment="练习了一些css语法" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595467971100</updated>
       <workItem from="1595467976765" duration="10685000" />
+      <workItem from="1595687249168" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="练习了一些css语法">
       <created>1595476324049</created>
@@ -105,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="练习了一些css语法" />
